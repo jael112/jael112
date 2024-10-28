@@ -19,7 +19,7 @@
   <em>
     Jael here, a <b>Sophomore</b> undergraduate from <a href="https://vitbhopal.ac.in/"> <b>Universidad De Ecatepec </b></a>. <br>
     A budding <b>Web Developer and Network Programmer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b> a very competitive young Programmer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> himself and wants a <b>work</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
