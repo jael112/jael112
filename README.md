@@ -46,7 +46,6 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/php-web-programming-language-line-icon-php-web-programming-language-line-icon-linear-style-sign-mobile-concept-web-design-177562144.jpg?raw=true"> </code>
-  <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/kali.png?raw=true"> </code>
   
   <hr>
   <p align="center">
