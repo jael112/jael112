@@ -2,7 +2,9 @@
 <h1 align="center">HIII<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Jael Romero</h1>
 <h3 align="center">WEB & Software Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/jael-raul-romero-estudillo-02b528335/" target="blank"><img align="center" />/a>
+<a href="https://www.linkedin.com/in/jael-raul-romero-estudillo-02b528335/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                                                                                                   alt="adam pithewan" height="30" width="40" /></a>
 <a href = "jaelromero73@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
