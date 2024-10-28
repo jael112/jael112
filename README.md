@@ -81,8 +81,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 
 
 -----
-Credits: [Divyansh Ojha](https://github.com/divyanshojha99)
-   
 
                     
 
